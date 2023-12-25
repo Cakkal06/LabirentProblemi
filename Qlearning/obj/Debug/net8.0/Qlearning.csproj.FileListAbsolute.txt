@@ -1,0 +1,14 @@
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\bin\Debug\net8.0\Qlearning.exe
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\bin\Debug\net8.0\Qlearning.deps.json
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\bin\Debug\net8.0\Qlearning.runtimeconfig.json
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\bin\Debug\net8.0\Qlearning.dll
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\bin\Debug\net8.0\Qlearning.pdb
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\obj\Debug\net8.0\Qlearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\obj\Debug\net8.0\Qlearning.AssemblyInfoInputs.cache
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\obj\Debug\net8.0\Qlearning.AssemblyInfo.cs
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\obj\Debug\net8.0\Qlearning.csproj.CoreCompileInputs.cache
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\obj\Debug\net8.0\Qlearning.dll
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\obj\Debug\net8.0\refint\Qlearning.dll
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\obj\Debug\net8.0\Qlearning.pdb
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\obj\Debug\net8.0\Qlearning.genruntimeconfig.cache
+C:\Users\celet\Source\Repos\Qlearning\Qlearning\obj\Debug\net8.0\ref\Qlearning.dll
